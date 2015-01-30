@@ -6,3 +6,6 @@ jQuery Colorful Element Plugin
     $(document).ready(function() {
         $('a').colori();
     });
+
+
+* developed in 2009
